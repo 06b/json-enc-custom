@@ -1,0 +1,15 @@
+{
+  "name": "json-enc-custom",
+  "version": "0.1.4",
+  "description": "custom extension for htmx, takes the parameters from encodeParameters, and parse the names of the forms to send json instead of url, also allows sending complex structures.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Emtyloc/json-enc-custom.git"
+  },
+  "main": "json-enc-custom.js",
+  "author": "Emtyloc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Emtyloc/json-enc-custom/issues"
+  }
+}
